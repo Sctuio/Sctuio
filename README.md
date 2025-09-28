@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sctuio
-- 👀 I’m interested in FNaF
+- 👋 Hi, I’m @Stary_TV
+- 👀 I’m interested in Weirdcore
 - 🌱 I’m currently learning coding
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i have a youtube channel
+- ⚡ Fun fact: Barney is a dinosaure from your imagination
 
 <!---
 Sctuio/Sctuio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
